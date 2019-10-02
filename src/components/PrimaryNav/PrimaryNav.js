@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 function PrimaryNav() {
   return (
     <div>
-      <header id="navigation" className="p-navigation">
+      <header id="navigation" className="p-navigation is-dark">
         <div className="p-navigation__banner">
           <div className="p-navigation__logo">
             <a className="p-navigation__link" href="/">
